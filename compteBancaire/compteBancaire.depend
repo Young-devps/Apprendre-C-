@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1550577424 source:/home/landry/Bureau/compteBancaire/main.cpp
+	<iostream>
+	"Compte.h"
+	"CompteCheque.h"
+	"COmpteEpargne.h"
+
+1550577175 /home/landry/Bureau/compteBancaire/include/Compte.h
+
+1550909469 /home/landry/Bureau/compteBancaire/include/CompteCheque.h
+	"Compte.h"
+
+1550577175 /home/landry/Bureau/compteBancaire/include/COmpteEpargne.h
+	"Compte.h"
+
+1550917471 source:/home/landry/Bureau/compteBancaire/src/Compte.cpp
+	"Compte.h"
+
+1550577175 source:/home/landry/Bureau/compteBancaire/src/COmpteEpargne.cpp
+	"COmpteEpargne.h"
+
+1550917471 source:/home/landry/Bureau/compteBancaire/src/CompteCheque.cpp
+	"CompteCheque.h"
+
+1551486876 source:/home/youngdevps/Documents/programingResearch/c++/compteBancaire/main.cpp
+	<iostream>
+	<string>
+	"Compte.h"
+	"CompteCheque.h"
+	"COmpteEpargne.h"
+
+1550577175 /home/youngdevps/Documents/programingResearch/c++/compteBancaire/include/Compte.h
+
+1550909469 /home/youngdevps/Documents/programingResearch/c++/compteBancaire/include/CompteCheque.h
+	"Compte.h"
+
+1550577175 /home/youngdevps/Documents/programingResearch/c++/compteBancaire/include/COmpteEpargne.h
+	"Compte.h"
+
+1550917471 source:/home/youngdevps/Documents/programingResearch/c++/compteBancaire/src/Compte.cpp
+	"Compte.h"
+
+1550917471 source:/home/youngdevps/Documents/programingResearch/c++/compteBancaire/src/CompteCheque.cpp
+	"CompteCheque.h"
+
+1550917522 source:/home/youngdevps/Documents/programingResearch/c++/compteBancaire/src/COmpteEpargne.cpp
+	"COmpteEpargne.h"
+
+1551493500 source:/home/youngdevps/Documents/programingResearch/c++/compteBancaire/src/Client.cpp
+	"Client.h"
+	<iostream>
+
+1551493558 /home/youngdevps/Documents/programingResearch/c++/compteBancaire/include/Client.h
+	<string>
+	<vector>
+	"Compte.h"
+	"CompteCheque.h"
+

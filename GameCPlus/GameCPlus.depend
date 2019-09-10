@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1551054349 source:e:\programingresearch\c++\gamecplus\main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	"Player.h"
+
+1551054349 
+
+1550946235 source:e:\programingresearch\c++\gamecplus\src\ga.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1550947632 image.h>
+
+1550946280 source:e:\programingresearch\c++\gamecplus\src\timers.cpp
+	"Timers.h"
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1550946251 e:\programingresearch\c++\gamecplus\include\timers.h
+
+1550947632 source:e:\programingresearch\c++\gamecplus\src\keyboadstate.cpp
+	"KeyboadState.h"
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1550947595 e:\programingresearch\c++\gamecplus\include\keyboadstate.h
+
+1550963477 source:e:\programingresearch\c++\gamecplus\src\ttf.cpp
+	"Ttf.h"
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1550963477 ttf.h>
+
+1550963604 e:\programingresearch\c++\gamecplus\include\ttf.h
+
+1551049773 source:e:\programingresearch\c++\gamecplus\src\mixer.cpp
+	"Mixer.h"
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+
+1551049773 mixer.h>
+
+1551049073 e:\programingresearch\c++\gamecplus\include\mixer.h
+
+1551054798 e:\programingresearch\c++\gamecplus\include\player.h
+	<string>
+	<SDL2/SDL.h>
+
+1551054798 h>
+
+1551054349 source:/home/youngdevps/Documents/programingResearch/c++/GameCPlus/main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	"Player.h"
+
+1551054798 /home/youngdevps/Documents/programingResearch/c++/GameCPlus/include/Player.h
+	<string>
+	<SDL2/SDL.h>
+
+1550946235 source:/home/youngdevps/Documents/programingResearch/c++/GameCPlus/src/ga.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1550947632 source:/home/youngdevps/Documents/programingResearch/c++/GameCPlus/src/KeyboadState.cpp
+	"KeyboadState.h"
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1550947595 /home/youngdevps/Documents/programingResearch/c++/GameCPlus/include/KeyboadState.h
+
+1551049773 source:/home/youngdevps/Documents/programingResearch/c++/GameCPlus/src/Mixer.cpp
+	"Mixer.h"
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+
+1551049073 /home/youngdevps/Documents/programingResearch/c++/GameCPlus/include/Mixer.h
+
+1550946280 source:/home/youngdevps/Documents/programingResearch/c++/GameCPlus/src/Timers.cpp
+	"Timers.h"
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1550946251 /home/youngdevps/Documents/programingResearch/c++/GameCPlus/include/Timers.h
+
+1550963477 source:/home/youngdevps/Documents/programingResearch/c++/GameCPlus/src/Ttf.cpp
+	"Ttf.h"
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1550963604 /home/youngdevps/Documents/programingResearch/c++/GameCPlus/include/Ttf.h
+

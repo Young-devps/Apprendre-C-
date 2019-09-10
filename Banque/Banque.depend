@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1446667744 source:e:\programingresearch\c++\banque\main.cpp
+	<iostream>
+
+1550834573 source:e:\programingresearch\c++\banque\src\compte.cpp
+	"Compte.h"
+
+1550834573 e:\programingresearch\c++\banque\include\compte.h
+
+1550834607 source:e:\programingresearch\c++\banque\src\comptecheque.cpp
+	"CompteCheque.h"
+
+1550834607 e:\programingresearch\c++\banque\include\comptecheque.h
+
+1550834623 source:e:\programingresearch\c++\banque\src\compteepargne.cpp
+	"CompteEpargne.h"
+
+1550834623 e:\programingresearch\c++\banque\include\compteepargne.h
+
+1550913863 source:e:\programingresearch\c++\banque\src\client.cpp
+	"Client.h"
+
+1550913947 e:\programingresearch\c++\banque\include\client.h
+	"Compte.h"
+	"CompteCheque.h"
+	<iostream>
+	<vector>
+

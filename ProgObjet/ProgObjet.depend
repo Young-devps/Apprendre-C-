@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1548412085 source:e:\programingresearch\c++\progobjet\main.cpp
+	<iostream>
+
+1548412315 source:e:\programingresearch\c++\progobjet\src\privatepublic.cpp
+	"PrivatePublic.h"
+
+1548412361 e:\programingresearch\c++\progobjet\include\privatepublic.h
+
+1548414886 source:e:\programingresearch\c++\progobjet\src\constructeur.cpp
+	"Constructeur.h"
+
+1548415953 e:\programingresearch\c++\progobjet\include\constructeur.h
+
+1548414706 source:e:\programingresearch\c++\progobjet\src\encapsulation.cpp
+	"Encapsulation.h"
+
+1548412424 e:\programingresearch\c++\progobjet\include\encapsulation.h
+
